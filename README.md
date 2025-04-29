@@ -1,3 +1,5 @@
+This is the live app, you can preview this by using this llink in your URL >>> https://hassanabni.github.io/Weather-app-2/
+
 # 🌤️ Weather App
 
 A simple web-based weather app that allows users to search for the current temperature of any city using the OpenWeatherMap API.
